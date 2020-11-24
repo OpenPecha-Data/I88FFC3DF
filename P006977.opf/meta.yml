@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1CZ899
   title: ཀུན་གཞིའི་ཐལ་ཕྲེང་ཡིག་ཆའི་རྗེས་སུ་འཇུག་པ་
-  volume: ''
+  volume:
+    15636972bbf54755a2c0ecbbb4f3ab7d:
+      image_group_id: I1CZ960
+      title: Volume 1 of kun gzhi'i thal phreng yig cha'i rjes su 'jug pa
+      volume_number: 1
+      total_pages: 90
   author: ''
+ebook_metadata:
+  title: ཀུན་གཞིའི་ཐལ་ཕྲེང་ཡིག་ཆའི་རྗེས་སུ་འཇུག་པ་
+  author: ''
+  sku: P006977
+  cover: cover.jpg
+  layers:
+  - pagination
