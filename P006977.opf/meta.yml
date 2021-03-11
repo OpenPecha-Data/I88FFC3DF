@@ -5,11 +5,12 @@ source_metadata:
   title: ཀུན་གཞིའི་ཐལ་ཕྲེང་ཡིག་ཆའི་རྗེས་སུ་འཇུག་པ་
   author: ''
   volumes:
-    fac5a00ef56d45348d43492f748e1912:
+    15636972bbf54755a2c0ecbbb4f3ab7d:
       image_group_id: I1CZ960
-      title: ''
+      title: Volume 1 of kun gzhi'i thal phreng yig cha'i rjes su 'jug pa
       volume_number: 1
       total_pages: 90
+      base_file: v001.txt
 ebook_metadata:
   title: ཀུན་གཞིའི་ཐལ་ཕྲེང་ཡིག་ཆའི་རྗེས་སུ་འཇུག་པ་
   author: ''
