@@ -1,5 +1,7 @@
 id: P006977
 initial_creation_type: ocr
+created_at: 29/03/2020
+last_modified_at: 25/11/2021
 source_metadata:
   id: bdr:W1CZ899
   title: ཀུན་གཞིའི་ཐལ་ཕྲེང་ཡིག་ཆའི་རྗེས་སུ་འཇུག་པ་
@@ -11,10 +13,3 @@ source_metadata:
       volume_number: 1
       total_pages: 90
       base_file: v001.txt
-ebook_metadata:
-  title: ཀུན་གཞིའི་ཐལ་ཕྲེང་ཡིག་ཆའི་རྗེས་སུ་འཇུག་པ་
-  author: ''
-  sku: P006977
-  cover: cover.jpg
-  layers:
-  - pagination
