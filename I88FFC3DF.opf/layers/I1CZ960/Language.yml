@@ -1,0 +1,99 @@
+id: ec74424b7bd34591b3f9c774b72ba947
+annotation_type: Language
+revision: '00001'
+annotations:
+  c9e4c24225044766acf3417940c37115:
+    span:
+      start: 40
+      end: 172
+    language: en
+  20140f8e14e6408db732a7190f5a7fca:
+    span:
+      start: 214
+      end: 272
+    language: en
+  9d90c96dc4fc49859bd985c2a959d7b3:
+    span:
+      start: 292
+      end: 745
+    language: en
+  825e4239dabf497ebe873077625a273f:
+    span:
+      start: 14411
+      end: 14452
+    language: en
+  775a0080170848308b27b8a60af4a6a8:
+    span:
+      start: 18750
+      end: 18880
+    language: en
+  77bc99f359dd4d43bbe87564e3c8b787:
+    span:
+      start: 21714
+      end: 21848
+    language: en
+  8c6f2799e52e4f0f85cde7f577468a95:
+    span:
+      start: 22526
+      end: 22683
+    language: en
+  0887e23405fe49aa864f4720ea2ef045:
+    span:
+      start: 24094
+      end: 24114
+    language: en
+  774ae96228da450e95c6531c304e1628:
+    span:
+      start: 24925
+      end: 25127
+    language: en
+  a742b4c0784b424bbfb02a715b0b3c12:
+    span:
+      start: 29933
+      end: 30089
+    language: en
+  aa33e03e06214bd8900362451e61776d:
+    span:
+      start: 32483
+      end: 32653
+    language: en
+  21a6f1a3a09348518ac23d414f51a612:
+    span:
+      start: 37866
+      end: 38014
+    language: en
+  09f47220a1dd4b46824144063ef75eb0:
+    span:
+      start: 44934
+      end: 44999
+    language: en
+  26d771fcf3dd4f0c9d2e31772cb59d64:
+    span:
+      start: 49590
+      end: 49739
+    language: en
+  a4a80713c7d94e2793af6fc150edce86:
+    span:
+      start: 50513
+      end: 50664
+    language: en
+  a7bdebfcaa09457f8e22096d6fa158a2:
+    span:
+      start: 58194
+      end: 58317
+    language: en
+  5dc8c34ca09e440aacccbca1fa085231:
+    span:
+      start: 58438
+      end: 58534
+    language: en
+  927239765c16454b8c8e6cf26d855d65:
+    span:
+      start: 81717
+      end: 81849
+    language: en
+  6d8b6f956dbb405cb9f5178ce96b78da:
+    span:
+      start: 82691
+      end: 82830
+    language: en
